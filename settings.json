@@ -1,0 +1,9 @@
+{
+    "Settings": [
+        {
+            "license_key": "YOUR-HYPER-LICENSE-KEY",
+            "success_webhook": "YOUR-DISCORD-WEBHOOK-URL"
+        }
+    ]
+}
+
